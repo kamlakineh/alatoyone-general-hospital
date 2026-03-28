@@ -1,0 +1,7 @@
+{
+  "name": "Alatyon General Hospital",
+  "description": "A full-service hospital in Hawassa, Ethiopia, featuring advanced 1.5T MRI and 64-slice CT-scan technology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
